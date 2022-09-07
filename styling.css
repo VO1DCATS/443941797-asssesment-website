@@ -1,0 +1,129 @@
+body {
+    background-color:#faebd7;
+    margin: 0%;
+}
+
+
+header {
+    position: fixed;
+background-color:mediumseagreen;
+width: 220px;
+position: fixed;
+opacity: 100%;
+color: black;
+height: 100%;
+}
+
+header h2 {
+    margin-top: 220px;
+}
+header img { width: 200px;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    border-radius: 50%;
+
+}
+.birds
+ {
+    list-style:circle;
+    text-decoration: none;
+    
+}
+
+nav {
+    position: fixed;
+    margin-left: 220px;
+    height: 110px;
+    width: 100%;
+    background-color:purple
+    }
+
+.huh {
+    position: fixed;
+    margin-left: 220px;
+    height: 110px;
+    width: 100%;
+    background-color:gold
+}
+
+.who { position: fixed;
+    margin-left: 220px;
+    height: 110px;
+    width: 100%;
+    background-color: black;
+}
+.who h1 {
+    color: aliceblue;
+}
+
+.knife { position: fixed;
+    margin-left: 220px;
+    height: 110px;
+    width: 100%;
+    background-color:darkblue;
+    color: aliceblue;
+}
+.colourful {position: fixed;
+    margin-left: 220px;
+    height: 110px;
+    width: 100%;
+    background-color:coral;
+    color:darkblue
+}
+
+.web{ 
+    position: fixed;
+    margin-left: 220px;
+    height: 110px;
+    width: 100%;
+    background-color:lightblue;
+    
+}
+nav h1 {
+    font-size:xxx-large;
+    padding-left: 45px;
+}
+
+main img {
+    width: 400px;
+    padding-right: 50px;
+
+}
+
+main {
+    padding-left: 270px;
+    padding-top: 140px;
+    width: 80%;
+}
+
+.dino img { width: 400px;
+    padding-right: 50px;
+
+}
+
+.ulS{
+    list-style: none;
+margin: 0%;
+}
+.ulliaS{
+   color:black;
+   font-size: large;
+   list-style: none;
+
+}
+
+.listkeeper { display: flex;
+justify-content: space-around;
+}
+.footer {
+display: flex;
+}
+
+#container { overflow: hidden; }
+#floated-imgs { float: right; }
+#floated-imgs img {display: block; }
+
+#cont { overflow: hidden; }
+#flyings { float: left; }
+#flyings img {display: block; }
