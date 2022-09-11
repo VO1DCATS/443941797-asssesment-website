@@ -127,3 +127,7 @@ display: flex;
 #cont { overflow: hidden; }
 #flyings { float: left; }
 #flyings img {display: block; }
+
+table,th,td {
+    border: 1px solid black;
+  }
